@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "332220285053",
+    "firebase_url": "https://unity-d4ee3.firebaseio.com",
+    "project_id": "unity-d4ee3",
+    "storage_bucket": "unity-d4ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332220285053:android:5d504e498619c194",
+        "android_client_info": {
+          "package_name": "com.karthik.LoginwithFirebasee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332220285053-ie7cb8m82ngokg09jar5fc722cq696lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karthik.LoginwithFirebasee",
+            "certificate_hash": "2d07ca1dd47efd2a619450a01482d6662a297a88"
+          }
+        },
+        {
+          "client_id": "332220285053-01e598v47h4gnshpesul8hehl8d9o1uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "332220285053-gie8qdci1slhril76pumpg655bm7o1kj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "332220285053-gie8qdci1slhril76pumpg655bm7o1kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn87GJO41iLRVRk-NAdHcwe82e9y4dzos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332220285053-01e598v47h4gnshpesul8hehl8d9o1uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
